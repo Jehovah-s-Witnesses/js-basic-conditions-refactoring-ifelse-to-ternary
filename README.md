@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-conditions-ifelse-to-ternary
 
-## Text
+## Change ifelse chains to ternary. Assign to ```phoneCode``` with ternary
 
 ## Criteria:
 
